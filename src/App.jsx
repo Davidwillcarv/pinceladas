@@ -1,14 +1,14 @@
 import WhatsAppButton from "./components/WhatsAppButton";
 import { Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
-import menu from "./components/menu";
+import Menu from "./components/Menu";
 import Footer from "./components/footer";
 
 import Home from "./pages/Home";
 import Equipe from "./pages/Equipe";
 import Orcamento from "./pages/Orcamento";
 import Contato from "./pages/Contato";
-import Oportunidade from "./pages/oportunidade";
+import Oportunidade from "./pages/Oportunidade";
 
 export default function App() {
   return (
@@ -24,7 +24,6 @@ export default function App() {
       </Routes>
       <Footer />
       <WhatsAppButton />
-
     </>
   );
 }
