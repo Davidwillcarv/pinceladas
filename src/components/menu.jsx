@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function Menu() {
+export default function menu() {
   return (
     <nav
       style={{

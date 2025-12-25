@@ -1,7 +1,7 @@
 import WhatsAppButton from "./components/WhatsAppButton";
 import { Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
-import Menu from "./components/Menu";
+import menu from "./components/menu";
 import Footer from "./components/footer";
 
 import Home from "./pages/Home";
