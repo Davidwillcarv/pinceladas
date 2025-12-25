@@ -14,16 +14,16 @@ export default function Menu() {
       <Link to="/" style={{ color: "white" }}>
         Início
       </Link>
-      <Link to="/equipe" style={{ color: "white" }}>
+      <Link to="/Equipe" style={{ color: "white" }}>
         Equipe
       </Link>
-      <Link to="/orcamento" style={{ color: "white" }}>
+      <Link to="/Orcamento" style={{ color: "white" }}>
         Orçamento
       </Link>
-      <Link to="/contato" style={{ color: "white" }}>
+      <Link to="/Contato" style={{ color: "white" }}>
         Contato
       </Link>
-      <Link to="/oportunidade" style={{ color: "white" }}>
+      <Link to="/Oportunidade" style={{ color: "white" }}>
         Oportunidades
       </Link>
     </nav>

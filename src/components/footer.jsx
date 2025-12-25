@@ -21,16 +21,16 @@ export default function Footer() {
               <Link to="/">Início</Link>
             </li>
             <li>
-              <Link to="/equipe">Equipe</Link>
+              <Link to="/Equipe">Equipe</Link>
             </li>
             <li>
-              <Link to="/orcamento">Orçamento</Link>
+              <Link to="/Orcamento">Orçamento</Link>
             </li>
             <li>
-              <Link to="/oportunidade">Oportunidades</Link>
+              <Link to="/Oportunidade">Oportunidades</Link>
             </li>
             <li>
-              <Link to="/contato">Contato</Link>
+              <Link to="/Contato">Contato</Link>
             </li>
           </ul>
         </div>

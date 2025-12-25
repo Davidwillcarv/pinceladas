@@ -17,10 +17,10 @@ export default function App() {
       <Menu /> {/* 👈 ISSO É O MAIS IMPORTANTE */}
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/equipe" element={<Equipe />} />
-        <Route path="/orcamento" element={<Orcamento />} />
-        <Route path="/contato" element={<Contato />} />
-        <Route path="/oportunidade" element={<Oportunidade />} />
+        <Route path="/Equipe" element={<Equipe />} />
+        <Route path="/Orcamento" element={<Orcamento />} />
+        <Route path="/Contato" element={<Contato />} />
+        <Route path="/Oportunidade" element={<Oportunidade />} />
       </Routes>
       <Footer />
       <WhatsAppButton />
